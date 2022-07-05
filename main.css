@@ -8,18 +8,10 @@ body{
 .Menu-items
 {
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-width: 850px;
-height: 18px;
-left: 180px;
-top: 24px;
-
-    
-color:white;
+    width: 850px;
+    color:white;
     font-size:10px;
-    
-    display: flex;
-    align-items: center;
-}
+    }
 
 .Home{
     padding-left: 200px;
@@ -40,13 +32,13 @@ color:white;
 main{
     color: white;
     padding: 80px;
-  padding-left: 200px;
+    padding-left: 200px;
 }
 .text{
     font-size: 10px;
     font-weight: 500;
     width: 850px;
-
+    padding-bottom: 40px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .button1{
@@ -58,14 +50,12 @@ main{
 .image{
     border-radius: 50%;
     position: absolute;
-
-left: 718px;
-top: 89px;
+    left: 718px;
+    top: 89px;
 }
 footer{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: white;
-    
     font-size:10px;
     }
 .message{
