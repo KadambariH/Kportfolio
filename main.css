@@ -1,0 +1,88 @@
+@import url('https://fonts.gstatic.com/s/inter/v11/UcC73FwrK3iLTeHuS_fvQtMwCp50KnMa2ZL7SUc.woff2');
+
+body{
+   
+    background-color: black;
+}
+
+.Menu-items
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+width: 850px;
+height: 18px;
+left: 180px;
+top: 24px;
+
+    
+color:white;
+    font-size:10px;
+    
+    display: flex;
+    align-items: center;
+}
+
+.Home{
+    padding-left: 200px;
+}
+.Case-Studies{
+    padding-left: 30px;
+    }
+    
+    .Testimonials{
+    padding:30px;
+    }
+    
+    .Recent{
+    padding-right: 30px;
+    }
+
+
+main{
+    color: white;
+    padding: 80px;
+  padding-left: 200px;
+}
+.text{
+    font-size: 10px;
+    font-weight: 500;
+    width: 850px;
+
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button1{
+    background-color:lawngreen;
+    padding: 15px;
+    color:white;
+    
+}
+.image{
+    border-radius: 50%;
+    position: absolute;
+
+left: 718px;
+top: 89px;
+}
+footer{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    
+    font-size:10px;
+    }
+.message{
+    padding-left: 200px;
+}
+    .Dropbox{
+        padding: 30px;
+    }
+    .elastic{
+        padding: 30px;
+    }
+    .click{
+        padding-left: 200px;
+    }
+    .PAYCHEX{
+
+        @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,400;1,500&display=swap');
+        
+        
+    }
